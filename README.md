@@ -1,2 +1,3 @@
 # git_test
-¡Hola Odin!
+¡Hello Odin!
+Esta es una nueva modificacion para repasar el flujo de trabajo de git 
